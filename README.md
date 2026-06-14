@@ -74,13 +74,7 @@ Power BI Executive Dashboard
 
 # Executive Dashboard
 
-![Executive Dashboard](Screenshots/dashboard.png)
-
----
-
-# Dashboard Design Concept
-
-![Dashboard Concept](Screenshots/dashboard_concept.png)
+![Executive Dashboard](Screenshots/executive_dashboard.png)
 
 ---
 
