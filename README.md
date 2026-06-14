@@ -25,6 +25,19 @@ The goal of this project was to create a centralized analytics platform capable 
 
 ---
 
+## Business Impact
+
+This analytics platform enables fitness franchise leadership to identify revenue growth opportunities, reduce member churn, optimize marketing spend, and benchmark studio performance across 100 locations.
+
+Key findings include:
+
+* 27.7% member churn rate represents the largest revenue improvement opportunity
+* 34.9% lead conversion rate indicates room for marketing optimization
+* Top-performing studios generate significantly higher revenue than average locations
+* Basic memberships represent over 50% of the member base, creating premium upsell opportunities
+
+---
+
 ## Technology Stack
 
 - Python
