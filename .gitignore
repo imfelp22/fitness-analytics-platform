@@ -1,0 +1,15 @@
+csv/
+logs/
+
+README.md
+
+attendance.csv
+members.csv
+revenue.csv
+leads.csv
+studios.csv
+
+dbt/jaffle_shop/seeds/
+dbt/jaffle_shop/target/
+dbt/jaffle_shop/logs/
+dbt/jaffle_shop/dbt_packages/
