@@ -262,6 +262,6 @@ fitness-franchise-analytics/
 
 ## Author
 
-Felipe
+Felipe Ismerio
 
 End-to-end analytics platform built using Python, Snowflake, dbt, SQL, and Power BI.
